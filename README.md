@@ -1,5 +1,5 @@
 # Dashboard Analytics - JetAirways BI Course FILKOM UB
-<img width="1889" height="906" alt="Image" src="https://github.com/user-attachments/assets/167e0ab8-6011-4589-868a-487241ccc107" />
+<img width="1891" height="912" alt="Image" src="https://github.com/user-attachments/assets/bba5eb44-9772-4ad8-9fc4-2218656c7d96" />
 
 ## Backgorund
 The rapid growth of information technology and data-driven decision-making has pushed industries, including aviation to adopt Business Intelligence (BI) tools. Jet Airways faces increasingly complex challenges in operations and customer experience, making effective data management essential for improving service quality and business efficiency. To address this, a BI dashboard was developed to simplify complex data analysis and deliver actionable insights. Leveraging both historical and real-time data, the dashboard supports decision-making, identifies trends, and enhances operational performance. 

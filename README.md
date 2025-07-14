@@ -6,7 +6,7 @@ The rapid growth of information technology and data-driven decision-making has p
 
 This project outlines the design and implementation of a BI dashboard for Jet Airways, showcasing how modern analytics can drive strategic value and strengthen the airline’s competitive position.
 
-## Data Source
+## Data Source and Dimensional Modelling
 The dataset used in this project was obtained from [Plane Ticket Price Dataset (Kaggle)](https://www.kaggle.com/datasets/ibrahimelsayed182/plane-ticket-price?resource=download).
 
 <img width="1526" height="640" alt="Image" src="https://github.com/user-attachments/assets/53fcaa27-2d10-4f24-b614-3542f8e9fcae" />
